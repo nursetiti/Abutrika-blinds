@@ -1,0 +1,22 @@
+/* header{
+  background:linear-gradient(rgba(0, 0, 0, 0.644) , rgba(0, 0, 0, 0.527)) , url(../images/banner2.jpg);
+  height: initial;
+}
+.fa.fa-bars{
+   color: white;
+}
+ul li a{
+  color: white;
+} */
+.hea{
+  background: url(../images/banner-bg-1.jpg)
+}
+@media screen and (min-width : 1500px)
+{
+  .hea{
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+}

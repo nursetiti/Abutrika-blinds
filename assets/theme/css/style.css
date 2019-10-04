@@ -184,17 +184,6 @@ figure[mbr-media-size] {
   display: block;
   width: 100%; }
 
-.card {
-  background-color: transparent;
-  border: none; }
-
-.card-box {
-  width: 100%; }
-
-.card-img {
-  text-align: center;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0; }
 
 .media {
   max-width: 100%;

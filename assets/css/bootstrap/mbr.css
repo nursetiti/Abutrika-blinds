@@ -1634,6 +1634,7 @@ body {
   padding-bottom: 30px;
   background-color: #efefef;
 }
+/* 
 .cid-qxyQhLuxk5 .card-img a {
   display: block;
   padding-top: 2rem;
@@ -1753,7 +1754,7 @@ body {
 .cid-qxz0gNvgdF .testimonials-container .testimonials-item .user .testimonials-caption {
   padding: 2rem;
   padding: 2rem 2rem 2rem 0;
-}
+} */
 @media (max-width: 260px) {
   .cid-qxz0gNvgdF .user_image {
     width: 100% !important;

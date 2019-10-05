@@ -372,9 +372,9 @@
 .mbri-sites:before {
   content: "\e973";
 }
-.mbri-smile-face:before {
+/* .mbri-smile-face:before {
   content: "\e974";
-}
+} */
 .mbri-speed:before {
   content: "\e975";
 }

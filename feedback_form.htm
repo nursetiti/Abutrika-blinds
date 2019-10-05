@@ -1,5 +1,8 @@
-<!-- <!DOCTYPE html>
-<title>Feedback Form</title>
+<!DOCTYPE html>
+<title>Feedback Form</title>	
+<?
+include_once("send_mail,php");
+?>
 <h1>Feedback Form</h1>
 
 <form method="post" action="send_mail.php">
@@ -19,33 +22,4 @@
 </label>
 </p>
 <p><button>Submit the form</button></p>
-</form> -->
-<html>
-<head>
-<title>Untitled Document</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-</head>
-
-<body bgcolor="#FFFFFF" text="#000000">
-
-<p>Test Form email page</p>
-<form name="form1" method="post" action="nosiratalade1@gmail.com">
-<input type="hidden" name="recipient" value="nosiratalade1@gmail.com">
-<input type="hidden" name="subject" value="Test Form email">
-<input type="hidden" name="redirect" value="index.html">
-<p>
-<input type="text" name="firstName">
-First Name<br>
-<input type="text" name="surname">
-Surname<br>
-<input type="text" name="nationality">
-Nationality <br>
-</p>
-<p>
-<input type="submit" name="Submit" value="Submit">
-</p>
-
 </form>
-<p>&nbsp;</p>
-</body>
-</html>

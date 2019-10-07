@@ -1332,28 +1332,6 @@ body {
   padding-left: 0;
   padding-bottom: 0;
 }
-.menu-2 .dropdown .dropdown-menu {
-  background: #072151;
-  display: none;
-  position: absolute;
-  min-width: 5rem;
-  padding-top: 1.4rem;
-  padding-bottom: 1.4rem;
-  text-align: left;
-}
-.menu-2 .dropdown .dropdown-menu .dropdown-item {
-  width: auto;
-  padding: 0.235em 1.5385em 0.235em 1.5385em !important;
-}
-.menu-2 .dropdown .dropdown-menu .dropdown-item::after {
-  right: 0.5rem;
-}
-.menu-2 .dropdown .dropdown-menu .dropdown-submenu {
-  margin: 0;
-}
-.menu-2 .dropdown.open > .dropdown-menu {
-  display: block;
-}
 .menu-2 .navbar-toggleable-sm.opened:after {
   position: absolute;
   width: 100vw;

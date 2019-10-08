@@ -761,14 +761,6 @@ pre {
   margin-left: .1rem;
 }
 /* Footer */
-.mbr-footer-content li::before,
-.mbr-footer .mbr-contacts li::before {
-  background: #ffbc00;
-}
-.mbr-footer-content li a:hover,
-.mbr-footer .mbr-contacts li a:hover {
-  color: #ffbc00;
-}
 /* Headers*/
 .carousel-item.active,
 .carousel-item-next,

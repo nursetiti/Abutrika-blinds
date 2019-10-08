@@ -699,15 +699,7 @@ pre {
 .btn-social + .btn {
   margin-left: .1rem;
 }
-/* Footer */
-.mbr-footer-content li::before,
-.mbr-footer .mbr-contacts li::before {
-  background: #55b4d4;
-}
-.mbr-footer-content li a:hover,
-.mbr-footer .mbr-contacts li a:hover {
-  color: #55b4d4;
-}
+/* Footer 
 /* Headers*/
 .offset-1 {
   margin-left: 8.33333%;
@@ -1978,14 +1970,6 @@ body {
   width: 100%;
   min-width: 100%;
   min-height: 100%;
-}
-.cid-qxz5aDsFVp .mbr-testimonial .card-footer {
-  padding-bottom: 2.4rem;
-  border-top: 0;
-  padding-top: 1rem;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
 }
 @media (max-width: 300px) {
   .cid-qxz5aDsFVp .testimonial-photo {
